@@ -3,3 +3,14 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#customWG1 {
+	 z-index: 1;
+	 width: 300px;
+	 height: 300px;
+	 top: 87px;
+	 left: 238px;
+	
+	 position: absolute;
+	 
+}
+
